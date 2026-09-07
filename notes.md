@@ -1,0 +1,3 @@
+- Git is a distributed version control system.
+- git add stages files for a commit.
+- git commit saves changes in Git history.
